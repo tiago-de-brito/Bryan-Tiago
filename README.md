@@ -79,4 +79,5 @@ Relacionamento entre anúncios e usuários autenticados.
 
 Contribuidores
 
-[Tiago Lima] - Desenvolvedor principal
+[Tiago Lima e Bryan Campos] - Desenvolvedores
+
